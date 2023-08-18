@@ -11,8 +11,6 @@
   </ul>
   </details>
 
-  <details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
 <h3>Languages</h3>
  <img style="border-radius: 5%" alt='HTML5' src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
  <img style="border-radius: 5%" alt='CSS3' src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -31,7 +29,7 @@
       <img style="border-radius: 5%" alt='Visual Studio Code' src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
       
   </p>
-</details>
+
 
 <a href="#"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=vitamin4uk&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitamin4uk&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
