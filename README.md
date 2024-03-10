@@ -20,6 +20,7 @@
  <img style="border-radius: 5%" alt='SASS' src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
  <img style="border-radius: 5%" alt='normalizedotcss' src="https://img.shields.io/badge/normalize-E3695F?style=for-the-badge&logo=normalizedotcss&logoColor=white"/>
  <img style="border-radius: 5%" alt='Markdown' src="https://img.shields.io/badge/MarkDown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python Badge">
  <img style="border-radius: 5%" alt='bootstrap' src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
  <img style="border-radius: 5%" alt='JavaScript' src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
  <img style="border-radius: 5%" alt='React' src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
