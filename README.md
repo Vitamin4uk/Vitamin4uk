@@ -16,6 +16,7 @@
 <h2>Languages</h2>
 <p>
  <img style="border-radius: 5%" alt='HTML5' src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=fff&style=for-the-badge" alt="Pug Badge">
  <img style="border-radius: 5%" alt='CSS3' src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
  <img style="border-radius: 5%" alt='SASS' src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
  <img style="border-radius: 5%" alt='normalizedotcss' src="https://img.shields.io/badge/normalize-E3695F?style=for-the-badge&logo=normalizedotcss&logoColor=white"/>
