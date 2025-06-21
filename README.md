@@ -1,5 +1,9 @@
-## Hi there 👋
+### Hi there! Welcome to my Github Profile! 👋
 
+📍 **Ukraine**  
+📧 **Email:** [mvvfreelance@gmail.com](mailto:mvvfreelance@gmail.com)  
+🔗 **LinkedIn:** [Mostovyi Viktor](https://www.linkedin.com/in/viktor-mostovyi-869a50209/)  
+👨‍💻 **GitHub:**   [Vitamin4uk](https://github.com/vitamin4uk)
 <!--
 **Vitamin4uk/Vitamin4uk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Vitamin4uk&&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Arch's GitHub Stats" />
+</a>
