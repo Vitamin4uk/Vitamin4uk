@@ -1,26 +1,20 @@
-### Hi there! Welcome to my Github Profile! 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20World&fontSize=50" />
+</div>
 
-📍 **Ukraine**  
-📧 **Email:** [mvvfreelance@gmail.com](mailto:mvvfreelance@gmail.com)  
-🔗 **LinkedIn:** [Mostovyi Viktor](https://www.linkedin.com/in/viktor-mostovyi-869a50209/)  
-👨‍💻 **GitHub:**   [Vitamin4uk](https://github.com/vitamin4uk)
-<!--
-**Vitamin4uk/Vitamin4uk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Про мене
+Я розробник, який любить поєднувати логіку програмування з естетикою візуалу. Зараз працюю над вдосконаленням модульних структур у веб-проектах.
 
-Here are some ideas to get you started:
+### 💻 Мої інструменти
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,tailwind,git,vscode,figma" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Моя активність
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitamin4uk&theme=dark" alt="GitHub Streak" />
+</p>
 
-<!--## My Stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Vitamin4uk&&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Arch's GitHub Stats" />
-</a>-->
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitamin4uk&layout=compact&theme=vision-friendly-dark" />
+</p>
