@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Віктор%20Мостовий&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=WELCOME%20TO%20MY%20WORLD&fontSize=50&animation=fadeIn" />
 </div>
 
 ## 👨‍💻 Про мене
@@ -7,7 +7,7 @@
 
 - 🛠 **Стек:** React, JavaScript, Tailwind CSS, SASS.
 - 📐 **Підхід:** Логіка + Естетика.
-- 🏗 **Проекти:** Від лендінгів для фермерських господарств до складних авторських блогів.
+- 🏗 **Проекти:** Від лендінгів до складних веб-додатків.
 
 ---
 
@@ -41,10 +41,10 @@
 
 ### 📫 Зв'язок
 <p align="left">
-  <a href="mailto:mvvfreelance@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/vitamin4uk"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:mostovyi.zsu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/your_telegram_username"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 <div align="right">
-  <i>Останнє оновлення: червень 2026</i>
+  <img src="https://img.shields.io/github/last-commit/vitamin4uk/vitamin4uk?label=Останнє%20оновлення&style=flat-square&color=2CA5E0" alt="Останнє оновлення" />
 </div>
