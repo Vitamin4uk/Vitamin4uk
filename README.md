@@ -41,10 +41,10 @@
 
 ### 📫 Зв'язок
 <p align="left">
-  <a href="mailto:mostovyi.zsu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/your_telegram_username"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:mvvfreelance@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/vitamin4uk"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 <div align="right">
-  <i>Останнє оновлення: квітень 2026</i>
+  <i>Останнє оновлення: червень 2026</i>
 </div>
