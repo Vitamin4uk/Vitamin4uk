@@ -2,12 +2,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=WELCOME%20TO%20MY%20WORLD&fontSize=50&animation=fadeIn" />
 </div>
 
-## 👨‍💻 Про мене
-Я — Frontend-розробник. Зараз зосереджений на створенні чистих, модульних інтерфейсів та вдосконаленні архітектури проектів.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vitamin4uk&color=00b4d8&style=flat-square" alt="Лічильник переглядів" />
+</div>
 
-- 🛠 **Стек:** React, JavaScript, Tailwind CSS, SASS.
-- 📐 **Підхід:** Логіка + Естетика.
-- 🏗 **Проекти:** Від лендінгів до складних веб-додатків.
+## 👨‍💻 Про мене
+Я — Frontend-розробник. Звик поєднувати логіку програмування з естетикою візуалу. Наразі мій головний фокус — створення чистих, модульних інтерфейсів та вдосконалення архітектури проектів.
+
+- 🛠 **Основний стек:** React, JavaScript, Tailwind CSS, SASS.
+- 🌱 **Зараз фокусуюсь на:** Щоденній інтенсивній практиці з JS та вивченні Python (створення базових скриптів на кшталт генераторів паролів та математичних хабів для розширення логічного мислення).
+- 🏗 **Проекти:** Від зручних інструментів управління до складних веб-додатків.
 
 ---
 
@@ -15,6 +19,19 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,tailwind,vite,vscode,git,figma,python,firebase" />
 </p>
+
+---
+
+### 🚀 Ключові проекти
+
+> **Бухгалтерія Фермера**
+> Додаток для обліку та управління на React. Максимальний фокус на модульній архітектурі та зручному, інтуїтивно зрозумілому інтерфейсі для користувача.
+
+> **Блог автора**
+> Повноцінна платформа з кастомною адмін-панеллю та інтеграцією бази даних на Firebase.
+
+> **Курочка з Хоросткова**
+> Сучасний оптимізований веб-простір для бренду домашньої ферми. 
 
 ---
 
@@ -41,10 +58,6 @@
 
 ### 📫 Зв'язок
 <p align="left">
-  <a href="mailto:mostovyi.zsu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/your_telegram_username"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:mvvfreelance@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/vitamin4uk"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
-
-<div align="right">
-  <img src="https://img.shields.io/github/last-commit/vitamin4uk/vitamin4uk?label=Останнє%20оновлення&style=flat-square&color=2CA5E0" alt="Останнє оновлення" />
-</div>
