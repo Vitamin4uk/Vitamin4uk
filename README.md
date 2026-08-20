@@ -31,7 +31,7 @@
 
 ### 💻 Технології
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,tailwind,vite,vscode,git,figma,python,firebase" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,vscode,git,figma,py,firebase,docker,github,svg,windows" />
 </p>
 
 ---
