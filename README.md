@@ -37,10 +37,10 @@
 ---
 
 ### 📊 Статистика розробника
-%%<div align="center">
+<!--<div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vitamin4uk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitamin4uk&layout=compact&theme=tokyonight&hide_border=true" />
-</div>%%
+</div>%% -->
 
 <br/>
 
